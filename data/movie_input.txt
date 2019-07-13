@@ -131,7 +131,6 @@ Accidental Love ,PG-13,2015
 Ace Ventura: Pet Detective ,PG-13,1994
 Ace Ventura: When Nature Calls ,PG-13,1995
 Across the Universe ,PG-13,2007
-Across the Universe ,PG-13,2007
 Act of Valor ,R,2012
 Adam Resurrected ,R,2008
 Adam ,PG-13,2009
@@ -163,7 +162,6 @@ Alexander ,R,2004
 Alfie ,R,2004
 Alice Through the Looking Glass ,PG,2016
 Alice in Wonderland ,PG,2010
-Alice in Wonderland ,PG,2010
 Alien 3 ,R,1992
 Alien Uprising ,R,2012
 Alien: Resurrection ,R,1997
@@ -186,7 +184,6 @@ All the Real Girls ,R,2003
 Allegiant ,PG-13,2016
 Almost Famous ,R,2000
 Aloft ,R,2014
-Aloha ,PG-13,2015
 Aloha ,PG-13,2015
 Alone in the Dark ,R,2005
 Along Came Polly ,PG-13,2004
@@ -275,7 +272,6 @@ Armored ,PG-13,2009
 Army of Darkness ,R,1992
 Arnolds Park ,PG-13,2007
 Around the World in 80 Days ,PG,2004
-Around the World in 80 Days ,PG,2004
 Arthur Christmas ,PG,2011
 Arthur and the Invisibles ,PG,2006
 As Good as It Gets ,PG-13,1997
@@ -317,7 +313,6 @@ Bad Boys ,R,1995
 Bad Company ,PG-13,2002
 Bad Grandpa ,R,2013
 Bad Lieutenant: Port of Call New Orleans ,R,2009
-Bad Moms ,R,2016
 Bad Moms ,R,2016
 Bad Santa ,R,2003
 Bad Teacher ,R,2011
@@ -381,8 +376,6 @@ Bella ,PG-13,2006
 Beloved ,R,1998
 Below Zero ,R,2011
 Ben-Hur ,PG-13,2016
-Ben-Hur ,PG-13,2016
-Ben-Hur ,PG-13,2016
 Bend It Like Beckham ,PG-13,2002
 Beneath Hill 60 ,R,2010
 Beowulf ,PG-13,2007
@@ -399,7 +392,6 @@ Beyond the Sea ,PG-13,2004
 Bicentennial Man ,PG,1999
 Big Daddy ,PG-13,1999
 Big Eyes ,PG-13,2014
-Big Fat Liar ,PG,2002
 Big Fat Liar ,PG,2002
 Big Fish ,PG-13,2003
 Big Hero 6 ,PG,2014
@@ -512,7 +504,6 @@ Brooklyn's Finest ,R,2009
 Brooklyn ,PG-13,2015
 Brotherly Love ,R,2015
 Brothers ,R,2009
-Brothers ,R,2009
 Brother ,R,2000
 Brown Sugar ,PG-13,2002
 Bruce Almighty ,PG-13,2003
@@ -551,13 +542,11 @@ Caramel ,PG,2007
 Carnage ,R,2011
 Carriers ,PG-13,2009
 Carrie ,R,2013
-Carrie ,R,2013
 Cars 2 ,G,2011
 Cars ,G,2006
 Casa de mi Padre ,R,2012
 Case 39 ,R,2009
 Casino Jack ,R,2010
-Casino Royale ,PG-13,2006
 Casino Royale ,PG-13,2006
 Casino ,R,1995
 Casper ,PG,1995
@@ -595,7 +584,6 @@ Charlie's Angels ,PG-13,2000
 Charlotte's Web ,G,2006
 Chasing Amy ,R,1997
 Chasing Liberty ,PG-13,2004
-Chasing Liberty ,PG-13,2004
 Chasing Mavericks ,PG,2012
 Chasing Papi ,PG,2003
 Cheaper by the Dozen 2 ,PG,2005
@@ -621,7 +609,6 @@ Chuck & Buck ,R,2000
 Chéri ,R,2009
 Cinderella Man ,PG-13,2005
 Cinderella ,PG,2015
-Cinderella ,PG,2015
 Circumstance ,R,2011
 Cirque du Freak: The Vampire's Assistant ,PG-13,2009
 Cirque du Soleil: Worlds Away ,PG,2012
@@ -634,7 +621,6 @@ City of Ghosts ,R,2002
 City of God ,R,2002
 City of Life and Death ,R,2009
 Civil Brand ,R,2002
-Clash of the Titans ,PG-13,2010
 Clash of the Titans ,PG-13,2010
 Clay Pigeons ,R,1998
 Clean ,R,2004
@@ -700,7 +686,6 @@ Cradle Will Rock ,R,1999
 Crank: High Voltage ,R,2009
 Crank ,R,2006
 Crash ,R,2004
-Crash ,R,2004
 Crazy Heart ,R,2009
 Crazy in Alabama ,PG-13,1999
 Crazy/Beautiful ,PG-13,2001
@@ -712,7 +697,6 @@ Critical Care ,R,1997
 Crocodile Dundee in Los Angeles ,PG,2001
 Crooklyn ,PG-13,1994
 Crossover ,PG-13,2006
-Crossroads ,PG-13,2002
 Crossroads ,PG-13,2002
 Crowsnest ,R,2012
 Cruel Intentions ,R,1999
@@ -748,7 +732,6 @@ Date Movie ,PG-13,2006
 Date Night ,PG-13,2010
 Dave Chappelle's Block Party ,R,2005
 Dawn of the Dead ,R,2004
-Dawn of the Dead ,R,2004
 Dawn of the Planet of the Apes ,PG-13,2014
 Day One ,PG-13,2012
 Daybreakers ,R,2009
@@ -768,7 +751,6 @@ Death Becomes Her ,PG-13,1992
 Death Calls ,R,2010
 Death Race ,R,2008
 Death Sentence ,R,2007
-Death at a Funeral ,R,2007
 Death at a Funeral ,R,2007
 Death to Smoochy ,R,2002
 Deck the Halls ,PG,2006
@@ -821,7 +803,6 @@ Disclosure ,R,1994
 District 9 ,R,2009
 District B13 ,R,2004
 Disturbia ,PG-13,2007
-Disturbia ,PG-13,2007
 Disturbing Behavior ,R,1998
 Divergent ,PG-13,2014
 Divine Secrets of the Ya-Ya Sisterhood ,PG-13,2002
@@ -829,7 +810,6 @@ Django Unchained ,R,2012
 Do You Believe? ,PG-13,2015
 Doc Holliday's Revenge ,PG-13,2014
 Doctor Dolittle ,PG-13,1998
-Dodgeball: A True Underdog Story ,PG-13,2004
 Dodgeball: A True Underdog Story ,PG-13,2004
 Dogma ,R,1999
 Dogtown and Z-Boys ,PG-13,2001
@@ -880,7 +860,6 @@ Dreamer: Inspired by a True Story ,PG,2005
 Dreamgirls ,PG-13,2006
 Dreaming of Joseph Lees ,R,1999
 Dredd ,R,2012
-Dredd ,R,2012
 Drillbit Taylor ,PG-13,2008
 Drinking Buddies ,R,2013
 Drive Angry ,R,2011
@@ -916,7 +895,6 @@ Easy Virtue ,PG-13,2008
 Eat Pray Love ,PG-13,2010
 Ed Wood ,R,1994
 Ed and His Dead Mother ,PG-13,1993
-Eddie the Eagle ,PG-13,2016
 Eddie the Eagle ,PG-13,2016
 Eden Lake ,R,2008
 Eden ,R,2015
@@ -986,7 +964,6 @@ Exeter ,R,2015
 Exiled ,R,2006
 Exit Wounds ,R,2001
 Exodus: Gods and Kings ,PG-13,2014
-Exodus: Gods and Kings ,PG-13,2014
 Exorcist: The Beginning ,R,2004
 Exotica ,R,1994
 Extract ,R,2009
@@ -1001,7 +978,7 @@ Eye of the Beholder ,R,1999
 Eye of the Dolphin ,PG-13,2006
 Eyes Wide Shut ,R,1999
 Fabled ,R,2002
-Face/Off ,R,1997
+Face Off ,R,1997
 Facing the Giants ,PG,2006
 Factory Girl ,R,2006
 Fahrenheit 9/11 ,R,2004
@@ -1013,7 +990,6 @@ Falcon Rising ,R,2014
 Fame ,PG,2009
 Fantasia 2000 ,G,1999
 Fantastic 4: Rise of the Silver Surfer ,PG,2007
-Fantastic Four ,PG-13,2015
 Fantastic Four ,PG-13,2015
 Fantastic Mr. Fox ,PG,2009
 Far from Heaven ,PG-13,2002
@@ -1081,7 +1057,6 @@ Forgetting Sarah Marshall ,R,2008
 Formula 51 ,R,2001
 Forrest Gump ,PG-13,1994
 Forsaken ,R,2015
-Forsaken ,R,2015
 Fort McCoy ,R,2011
 Fortress ,R,1992
 Forty Shades of Blue ,R,2005
@@ -1116,7 +1091,6 @@ Friends with Benefits ,R,2011
 Friends with Money ,R,2006
 Fright Night ,R,2011
 From Dusk Till Dawn ,R,1996
-From Hell ,R,2001
 From Hell ,R,2001
 From Justin to Kelly ,PG,2003
 From Paris with Love ,R,2010
@@ -1170,7 +1144,6 @@ Ghost Ship ,R,2002
 Ghost Town ,PG-13,2008
 Ghost World ,R,2001
 Ghostbusters ,PG-13,2016
-Ghostbusters ,PG-13,2016
 Ghosts of Mars ,R,2001
 Ghosts of Mississippi ,PG-13,1996
 Ghost ,PG-13,1990
@@ -1205,7 +1178,6 @@ Good Luck Chuck ,R,2007
 Good Will Hunting ,R,1997
 Goodfellas ,R,1990
 Good ,R,2008
-Goosebumps ,PG,2015
 Goosebumps ,PG,2015
 Gosford Park ,R,2001
 Gossip ,R,2000
@@ -1244,11 +1216,9 @@ Half Nelson ,R,2006
 Half Past Dead ,PG-13,2002
 Hall Pass ,R,2011
 Halloween II ,R,2009
-Halloween II ,R,2009
 Halloween: Resurrection ,R,2002
 Halloween: The Curse of Michael Myers ,R,1995
 Hamlet 2 ,R,2008
-Hamlet ,PG-13,1996
 Hamlet ,PG-13,1996
 Hancock ,PG-13,2008
 Hands of Stone ,R,2016
@@ -1294,19 +1264,16 @@ Heaven Is for Real ,PG,2014
 Heavenly Creatures ,R,1994
 Hedwig and the Angry Inch ,R,2001
 Heist ,R,2015
-Heist ,R,2015
 Held Up ,PG-13,1999
 Hellboy II: The Golden Army ,PG-13,2008
 Hellboy ,PG-13,2004
 Henry & Me ,PG,2014
 Herbie Fully Loaded ,G,2005
 Hercules ,PG-13,2014
-Hercules ,PG-13,2014
 Here Comes the Boom ,PG,2012
 Here on Earth ,PG-13,2000
 Hereafter ,PG-13,2010
 Heroes of Dirt ,PG-13,2015
-Hero ,PG-13,2002
 Hero ,PG-13,2002
 Her ,R,2013
 Hesher ,R,2010
@@ -1340,8 +1307,6 @@ Home for the Holidays ,PG-13,1995
 Home on the Range ,PG,2004
 Homefront ,R,2013
 Home ,PG,2015
-Home ,PG,2015
-Home ,PG,2015
 Honey ,PG-13,2003
 Hoodwinked Too! Hood vs. Evil ,PG,2011
 Hoodwinked! ,PG,2005
@@ -1374,7 +1339,6 @@ House of D ,PG-13,2004
 House of Flying Daggers ,PG-13,2004
 House of Sand and Fog ,R,2003
 House of Sand ,R,2005
-House of Wax ,R,2005
 House of Wax ,R,2005
 House on Haunted Hill ,R,1999
 How Do You Know ,PG-13,2010
@@ -1511,7 +1475,6 @@ J. Edgar ,R,2011
 JFK ,R,1991
 Jack Brooks: Monster Slayer ,R,2007
 Jack Reacher ,PG-13,2012
-Jack Reacher ,PG-13,2012
 Jack Ryan: Shadow Recruit ,PG-13,2014
 Jack and Jill ,PG,2011
 Jack the Giant Slayer ,PG-13,2013
@@ -1563,7 +1526,6 @@ Julie & Julia ,PG-13,2009
 Jumper ,PG-13,2008
 Jumping the Broom ,PG-13,2011
 Juno ,PG-13,2007
-Juno ,PG-13,2007
 Jupiter Ascending ,PG-13,2015
 Jurassic Park III ,PG-13,2001
 Jurassic Park ,PG-13,1993
@@ -1603,8 +1565,6 @@ Killers ,PG-13,2010
 Killing Them Softly ,R,2012
 Killing Zoe ,R,1993
 Kindergarten Cop ,PG-13,1990
-King Kong ,PG-13,2005
-King Kong ,PG-13,2005
 King Kong ,PG-13,2005
 King's Ransom ,PG-13,2005
 Kingdom of Heaven ,R,2005
@@ -1662,7 +1622,6 @@ Leap Year ,PG,2010
 Leatherheads ,PG-13,2008
 Leaving Las Vegas ,R,1995
 Lee Daniels' The Butler ,PG-13,2013
-Left Behind ,PG-13,2014
 Left Behind ,PG-13,2014
 Legally Blonde ,PG-13,2001
 Legend of Kung Fu Rabbit ,PG,2011
@@ -1744,7 +1703,6 @@ Love the Coopers ,PG-13,2015
 Love's Abiding Joy ,PG,2006
 Lovely & Amazing ,R,2001
 Lucky Break ,PG-13,2001
-Lucky Number Slevin ,R,2006
 Lucky Number Slevin ,R,2006
 Lucky Numbers ,R,2000
 Lucky You ,PG-13,2007
@@ -1842,7 +1800,6 @@ Men of War ,R,1994
 Men with Brooms ,R,2002
 Menace II Society ,R,1993
 Mercury Rising ,R,1998
-Mercury Rising ,R,1998
 Mercy Streets ,PG-13,2000
 Message in a Bottle ,PG-13,1999
 Metallica Through the Never ,R,2013
@@ -1939,7 +1896,6 @@ Munich ,R,2005
 Muppets Most Wanted ,PG,2014
 Muppets from Space ,G,1999
 Murder by Numbers ,R,2002
-Murder by Numbers ,R,2002
 Murderball ,R,2005
 Music and Lyrics ,PG-13,2007
 Must Love Dogs ,PG-13,2005
@@ -1965,7 +1921,6 @@ My Name Is Bruce ,R,2007
 My Name Is Khan ,PG-13,2010
 My Own Private Idaho ,R,1991
 My Sister's Keeper ,PG-13,2009
-My Soul to Take ,R,2010
 My Soul to Take ,R,2010
 My Summer of Love ,R,2004
 My Super Ex-Girlfriend ,PG-13,2006
@@ -2103,8 +2058,6 @@ Over Her Dead Body ,PG-13,2008
 Over the Hedge ,PG,2006
 Owning Mahowny ,R,2003
 Oz the Great and Powerful ,PG,2013
-Oz the Great and Powerful ,PG,2013
-O ,R,2001
 O ,R,2001
 P.S. I Love You ,PG-13,2007
 PCU ,PG-13,1994
@@ -2116,8 +2069,6 @@ Pan's Labyrinth ,R,2006
 Pandaemonium ,PG-13,2000
 Pandorum ,R,2009
 Panic Room ,R,2002
-Pan ,PG,2015
-Pan ,PG,2015
 Pan ,PG,2015
 Paparazzi ,PG-13,2004
 Paper Towns ,PG-13,2015
@@ -2172,7 +2123,6 @@ Pixels ,PG-13,2015
 Pi ,R,1998
 Planet 51 ,PG,2009
 Planet of the Apes ,PG-13,2001
-Planet of the Apes ,PG-13,2001
 Plastic ,R,2014
 Play It to the Bone ,R,1999
 Playing for Keeps ,PG-13,2012
@@ -2180,7 +2130,6 @@ Please Give ,R,2010
 Plush ,R,2013
 Pocahontas ,G,1995
 Poetic Justice ,R,1993
-Point Break ,PG-13,2015
 Point Break ,PG-13,2015
 Pokémon 3: The Movie ,G,2000
 Police Academy: Mission to Moscow ,PG,1994
@@ -2194,7 +2143,6 @@ Poseidon ,PG-13,2006
 Post Grad ,PG-13,2009
 Pound of Flesh ,R,2015
 Practical Magic ,PG-13,1998
-Precious ,R,2009
 Precious ,R,2009
 Predator 2 ,R,1990
 Predators ,R,2010
@@ -2333,7 +2281,6 @@ Robin Hood: Prince of Thieves ,PG-13,1991
 Robin Hood ,PG-13,2010
 RoboCop 3 ,PG-13,1993
 RoboCop ,PG-13,2014
-RoboCop ,PG-13,2014
 Robot & Frank ,PG-13,2012
 Robots ,PG,2005
 Rock Star ,R,2001
@@ -2373,7 +2320,6 @@ Rushmore ,R,1998
 Rush ,R,2013
 Rust ,PG,2010
 S.W.A.T. ,PG-13,2003
-Sabotage ,R,2014
 Sabotage ,R,2014
 Safe Haven ,PG-13,2013
 Safe House ,R,2012
@@ -2501,7 +2447,6 @@ Shutter ,PG-13,2008
 Sicario ,R,2015
 Sicko ,PG-13,2007
 Side Effects ,R,2013
-Side Effects ,R,2013
 Sideways ,R,2004
 Signs ,PG-13,2002
 Silent Hill: Revelation 3D ,R,2012
@@ -2521,7 +2466,6 @@ Six-String Samurai ,PG-13,1998
 Skin Trade ,R,2014
 Sky Captain and the World of Tomorrow ,PG,2004
 Sky High ,PG,2005
-Skyfall ,PG-13,2012
 Skyfall ,PG-13,2012
 Skyline ,PG-13,2010
 Slackers ,R,2002
@@ -2546,10 +2490,7 @@ Smoke Signals ,PG-13,1998
 Smokin' Aces ,R,2006
 Snake Eyes ,R,1998
 Snakes on a Plane ,R,2006
-Snakes on a Plane ,R,2006
 Snatch ,R,2000
-Snatch ,R,2000
-Snitch ,PG-13,2013
 Snitch ,PG-13,2013
 Snow Angels ,R,2007
 Snow Day ,PG,2000
@@ -2605,7 +2546,6 @@ Sphere ,PG-13,1998
 Spice World ,PG,1997
 Spider-Man 2 ,PG-13,2004
 Spider-Man 3 ,PG-13,2007
-Spider-Man 3 ,PG-13,2007
 Spider-Man ,PG-13,2002
 Spider ,R,2002
 Spirit: Stallion of the Cimarron ,G,2002
@@ -2643,7 +2583,6 @@ Starship Troopers ,R,1997
 Starsky & Hutch ,PG-13,2004
 State of Play ,PG-13,2009
 Stay Alive ,PG-13,2006
-Stealing Harvard ,PG-13,2002
 Stealing Harvard ,PG-13,2002
 Stealth ,PG-13,2005
 Steamboy ,PG-13,2004
@@ -2728,9 +2667,7 @@ Switchback ,R,1997
 Swordfish ,R,2001
 Sydney White ,PG-13,2007
 Syriana ,R,2005
-Syriana ,R,2005
 TMNT ,PG,2007
-TRON: Legacy ,PG,2010
 TRON: Legacy ,PG,2010
 Tadpole ,PG-13,2000
 Tae Guk Gi: The Brotherhood of War ,R,2004
@@ -2761,7 +2698,6 @@ Ted ,R,2012
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze ,PG,1991
 Teenage Mutant Ninja Turtles III ,PG,1993
 Teenage Mutant Ninja Turtles: Out of the Shadows ,PG-13,2016
-Teenage Mutant Ninja Turtles ,PG-13,2014
 Teenage Mutant Ninja Turtles ,PG-13,2014
 Teeth ,R,2007
 Terminator 2: Judgment Day ,R,1991
@@ -2795,7 +2731,6 @@ The Adventures of Tintin ,PG,2011
 The Age of Adaline ,PG-13,2015
 The Age of Innocence ,PG,1993
 The Alamo ,PG-13,2004
-The Alamo ,PG-13,2004
 The Amazing Spider-Man 2 ,PG-13,2014
 The Amazing Spider-Man ,PG-13,2012
 The American President ,PG-13,1995
@@ -2812,8 +2747,6 @@ The Artist ,PG-13,2011
 The Assassination of Jesse James by the Coward Robert Ford ,R,2007
 The Astronaut Farmer ,PG,2006
 The Astronaut's Wife ,R,1999
-The Astronaut's Wife ,R,1999
-The Avengers ,PG-13,2012
 The Avengers ,PG-13,2012
 The Aviator ,PG-13,2004
 The Awakening ,R,2011
@@ -2884,7 +2817,6 @@ The Cabin in the Woods ,R,2012
 The Cable Guy ,PG-13,1996
 The Californians ,PG,2005
 The Calling ,R,2014
-The Calling ,R,2014
 The Call ,R,2013
 The Campaign ,R,2012
 The Canyons ,R,2013
@@ -2903,7 +2835,6 @@ The Chronicles of Narnia: The Voyage of the Dawn Treader ,PG,2010
 The Chronicles of Riddick ,PG-13,2004
 The Chumscrubber ,R,2005
 The City of Your Final Destination ,PG-13,2009
-The Claim ,R,2000
 The Claim ,R,2000
 The Class ,PG-13,2008
 The Client ,PG-13,1994
@@ -2943,7 +2874,6 @@ The Dark Knight Rises ,PG-13,2012
 The Dark Knight ,PG-13,2008
 The Darkest Hour ,PG-13,2011
 The Day After Tomorrow ,PG-13,2004
-The Day the Earth Stood Still ,PG-13,2008
 The Day the Earth Stood Still ,PG-13,2008
 The Dead Girl ,R,2006
 The Dead Undead ,R,2010
@@ -2992,8 +2922,6 @@ The Family Stone ,PG-13,2005
 The Fan ,R,1996
 The Fast and the Furious: Tokyo Drift ,PG-13,2006
 The Fast and the Furious ,PG-13,2001
-The Fast and the Furious ,PG-13,2001
-The Fast and the Furious ,PG-13,2001
 The Fault in Our Stars ,PG-13,2014
 The Fifth Element ,PG-13,1997
 The Fifth Estate ,R,2013
@@ -3018,10 +2946,8 @@ The Frozen Ground ,R,2013
 The Frozen ,PG-13,2012
 The Fugitive ,PG-13,1993
 The Full Monty ,R,1997
-The Full Monty ,R,1997
 The Funeral ,R,1996
 The Gallows ,R,2015
-The Gambler ,R,2014
 The Gambler ,R,2014
 The Game Plan ,PG,2007
 The Game of Their Lives ,PG,2005
@@ -3030,7 +2956,6 @@ The Gatekeepers ,PG-13,2012
 The General's Daughter ,R,1999
 The Ghost Writer ,PG-13,2010
 The Ghost and the Darkness ,R,1996
-The Gift ,R,2015
 The Gift ,R,2015
 The Girl Next Door ,R,2004
 The Girl with the Dragon Tattoo ,R,2011
@@ -3050,7 +2975,6 @@ The Grace Card ,PG-13,2010
 The Grand Budapest Hotel ,R,2014
 The Grandmaster ,PG-13,2013
 The Great Debaters ,PG-13,2007
-The Great Gatsby ,PG-13,2013
 The Great Gatsby ,PG-13,2013
 The Great Raid ,R,2005
 The Greatest Game Ever Played ,PG,2005
@@ -3120,7 +3044,6 @@ The Ice Storm ,R,1997
 The Iceman ,R,2012
 The Ides of March ,R,2011
 The Illusionist ,PG-13,2006
-The Illusionist ,PG-13,2006
 The Imaginarium of Doctor Parnassus ,PG-13,2009
 The Imitation Game ,PG-13,2014
 The Immigrant ,R,2013
@@ -3149,7 +3072,6 @@ The Iron Giant ,PG,1999
 The Iron Lady ,PG-13,2011
 The Island of Dr. Moreau ,PG-13,1996
 The Island ,PG-13,2005
-The Island ,PG-13,2005
 The Italian Job ,PG-13,2003
 The Jackal ,R,1997
 The Jacket ,R,2005
@@ -3159,7 +3081,6 @@ The Jimmy Show ,R,2001
 The Joneses ,R,2009
 The Judge ,R,2014
 The Jungle Book 2 ,G,2003
-The Jungle Book ,PG,2016
 The Jungle Book ,PG,2016
 The Juror ,R,1996
 The Kids Are All Right ,R,2010
@@ -3182,7 +3103,6 @@ The Last Exorcism ,PG-13,2010
 The Last Five Years ,PG-13,2014
 The Last Godfather ,PG-13,2010
 The Last House on the Left ,R,2009
-The Last House on the Left ,R,2009
 The Last King of Scotland ,R,2006
 The Last Legion ,PG-13,2007
 The Last Samurai ,R,2003
@@ -3203,7 +3123,6 @@ The Legend of God's Gun ,R,2007
 The Legend of Hell's Gate: An American Conspiracy ,PG-13,2011
 The Legend of Hercules ,PG-13,2014
 The Legend of Suriyothai ,R,2001
-The Legend of Tarzan ,PG-13,2016
 The Legend of Tarzan ,PG-13,2016
 The Legend of Zorro ,PG,2005
 The Lego Movie ,PG,2014
@@ -3238,8 +3157,6 @@ The Lost World: Jurassic Park ,PG-13,1997
 The Love Guru ,PG-13,2008
 The Loved Ones ,R,2009
 The Lovely Bones ,PG-13,2009
-The Lovely Bones ,PG-13,2009
-The Lovers ,R,2015
 The Lovers ,R,2015
 The Lucky Ones ,R,2008
 The Lucky One ,PG-13,2012
@@ -3357,7 +3274,6 @@ The Players Club ,R,1998
 The Pledge ,R,2001
 The Poker House ,R,2008
 The Polar Express ,G,2004
-The Possession ,PG-13,2012
 The Possession ,PG-13,2012
 The Postman ,R,1997
 The Prestige ,PG-13,2006
@@ -3504,7 +3420,6 @@ The Time Machine ,PG-13,2002
 The Time Traveler's Wife ,PG-13,2009
 The To Do List ,R,2013
 The Tourist ,PG-13,2010
-The Tourist ,PG-13,2010
 The Town ,R,2010
 The Transporter Refueled ,PG-13,2015
 The Transporter ,PG-13,2002
@@ -3515,12 +3430,10 @@ The True Story of Puss'N Boots ,G,2009
 The Truman Show ,PG,1998
 The Tuxedo ,PG-13,2002
 The Twilight Saga: Breaking Dawn - Part 2 ,PG-13,2012
-The Twilight Saga: Breaking Dawn - Part 2 ,PG-13,2012
 The Twilight Saga: Eclipse ,PG-13,2010
 The Twilight Saga: New Moon ,PG-13,2009
 The Ugly Truth ,R,2009
 The Ultimate Gift ,PG,2006
-The Unborn ,PG-13,2009
 The Unborn ,PG-13,2009
 The Upside of Anger ,R,2005
 The Usual Suspects ,R,1995
@@ -3541,7 +3454,6 @@ The Warlords ,R,2007
 The Warrior's Way ,R,2010
 The Wash ,R,2001
 The Watcher ,R,2000
-The Watch ,R,2012
 The Watch ,R,2012
 The Water Diviner ,R,2014
 The Waterboy ,PG-13,1998
@@ -3635,7 +3547,6 @@ Top Five ,R,2014
 Topsy-Turvy ,R,1999
 Torque ,PG-13,2004
 Total Recall ,R,1990
-Total Recall ,R,1990
 Touching the Void ,R,2003
 Tower Heist ,PG-13,2011
 Town & Country ,R,2001
@@ -3650,7 +3561,6 @@ Training Day ,R,2001
 Trainspotting ,R,1996
 Trainwreck ,R,2015
 Train ,R,2008
-Trance ,R,2013
 Trance ,R,2013
 Transamerica ,R,2005
 Transcendence ,PG-13,2014
@@ -3688,7 +3598,6 @@ Turbo ,PG,2013
 Turbulence ,R,1997
 Tusk ,R,2014
 Twilight ,PG-13,2008
-Twilight ,PG-13,2008
 Twin Falls Idaho ,R,1999
 Twister ,PG-13,1996
 Twixt ,R,2011
@@ -3705,7 +3614,6 @@ Ultraviolet ,PG-13,2006
 UnDivided ,PG,2013
 Unaccompanied Minors ,PG,2006
 Unbreakable ,PG-13,2000
-Unbroken ,PG-13,2014
 Unbroken ,PG-13,2014
 Under Siege 2: Dark Territory ,R,1995
 Under the Same Moon ,PG-13,2007
@@ -3726,7 +3634,6 @@ Unforgiven ,R,1992
 Unfriended ,R,2014
 United 93 ,R,2006
 Universal Soldier: The Return ,R,1999
-Unknown ,PG-13,2011
 Unknown ,PG-13,2011
 Unleashed ,R,2005
 Unnatural ,R,2015
@@ -3762,8 +3669,6 @@ Veronika Decides to Die ,R,2009
 Vertical Limit ,PG-13,2000
 Very Bad Things ,R,1998
 Vicky Cristina Barcelona ,PG-13,2008
-Victor Frankenstein ,PG-13,2015
-Victor Frankenstein ,PG-13,2015
 Victor Frankenstein ,PG-13,2015
 Virgin Territory ,R,2007
 Virtuosity ,R,1995
@@ -3850,7 +3755,6 @@ Who Killed the Electric Car? ,PG,2006
 Who's Your Caddy? ,PG-13,2007
 Why Did I Get Married Too? ,PG-13,2010
 Why Did I Get Married? ,PG-13,2007
-Wicker Park ,PG-13,2004
 Wicker Park ,PG-13,2004
 Wild Card ,R,2015
 Wild Grass ,PG,2009
