@@ -42,39 +42,55 @@ func findAllNodes(root *html.Node, selector func(*html.Node) bool) []*html.Node 
 
 // scrapeScript scrapes the script html node from imsdb.com
 func scrapeScript(title string) (node *html.Node, err error) {
-	formattedTitle := strings.Replace(title, " ", "_", -1)
-	endpoint := fmt.Sprintf(imsdbScriptEndpoint, formattedTitle)
-	resp, err := http.Get(endpoint)
-	if err != nil {
-		return
-	}
-	if resp.StatusCode != 200 {
-		err = fmt.Errorf("unexpected status code %d", resp.StatusCode)
-		return
+	title = strings.Replace(title, " ", "-", -1)
+
+	// always include the default endpoint
+	endpoints := []string{fmt.Sprintf(imsdbScriptEndpoint, title)}
+
+	// sometimes you have to check multiple endpoints to get this right.
+	// for example, for titles beginning with "The", multiple endpoints should
+	// be attempted
+	if strings.Index(title, "The-") == 0 {
+		endpoints = append(endpoints, fmt.Sprintf(imsdbScriptEndpoint, title[4:]+",-The"))
 	}
 
-	defer resp.Body.Close()
-	root, err := html.Parse(resp.Body)
-	if err != nil {
-		return
-	}
-
-	scriptNodes := findAllNodes(root, func(n *html.Node) bool {
-		if n.Type == html.ElementNode && n.Data == "pre" {
-			if n.FirstChild != nil {
-				// bad title still return a page with a <pre> block, so
-				// filter out such blocks without any contents
-				return true
-			}
+	for _, ep := range endpoints {
+		// fmt.Printf("DEBUG: hitting '%s'\n", ep)
+		var resp *http.Response
+		resp, err = http.Get(ep)		
+		if err != nil {
+			continue
 		}
-		return false
-	})
+		defer resp.Body.Close()
+		if resp.StatusCode != 200 {
+			err = fmt.Errorf("unexpected status code %d", resp.StatusCode)
+			continue
+		}
 
-	if len(scriptNodes) != 1 {
-		err = fmt.Errorf("expected 1 node when scraping script, found %d", len(scriptNodes))
+		var root *html.Node
+		root, err = html.Parse(resp.Body)
+		if err != nil {
+			continue
+		}
+
+		scriptNodes := findAllNodes(root, func(n *html.Node) bool {
+			if n.Type == html.ElementNode && n.Data == "pre" {
+				if n.FirstChild != nil {
+					// bad title still return a page with a <pre> block, so
+					// filter out such blocks without any contents
+					return true
+				}
+			}
+			return false
+		})
+
+		if len(scriptNodes) != 1 {
+			err = fmt.Errorf("expected 1 node when scraping script, found %d", len(scriptNodes))
+			continue
+		}
+		node = scriptNodes[0]
 		return
 	}
-	node = scriptNodes[0]
 	return
 }
 
@@ -114,7 +130,7 @@ func main() {
 
 	// spin up some goroutines that read and fetch scripts
 	var wg sync.WaitGroup
-	ng := 100
+	ng := 1
 	for i := 0; i < ng; i++ {
 		wg.Add(1)
 		go func() {
@@ -143,8 +159,8 @@ func main() {
 					buf := &bytes.Buffer{}
 					parseContents(scriptNode, buf)
 
-					// write the script contents					
-					
+					// write the script contents
+
 					fileTxt, err := os.Create(filenameTxt)
 					defer fileTxt.Close()
 					if err != nil {
@@ -159,7 +175,7 @@ func main() {
 					}
 
 					// write the script metadata for associating the content rating
-					
+
 					fileMeta, err := os.Create(filenameMeta)
 					defer fileMeta.Close()
 					if err != nil {
@@ -167,7 +183,7 @@ func main() {
 						continue
 					}
 
-					_, err = fileMeta.WriteString(line+"\n")
+					_, err = fileMeta.WriteString(line + "\n")
 					if err != nil {
 						printScrapeFailure(title, "file meta write", err.Error())
 						continue
