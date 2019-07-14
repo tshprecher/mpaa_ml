@@ -23,7 +23,6 @@ var (
 // findAllNodes takes a root html.Node and a selector predicate and does a DFS
 // over the parsed html, retruning a slice of html.Nodes that match the predicate.
 func findAllNodes(root *html.Node, selector func(*html.Node) bool) []*html.Node {
-	// TODO: properly handle the case where root has siblings
 	if root == nil {
 		return nil
 	}
@@ -40,7 +39,8 @@ func findAllNodes(root *html.Node, selector func(*html.Node) bool) []*html.Node 
 	return nodes
 }
 
-// scrapeScript scrapes the script html node from imsdb.com
+// scrapeScript scrapes the script html node from imsdb.com and returns the html.Node
+// containing the script contents to be used for content extraction.
 func scrapeScript(title string) (node *html.Node, err error) {
 	title = strings.Replace(title, " ", "-", -1)
 
@@ -57,7 +57,7 @@ func scrapeScript(title string) (node *html.Node, err error) {
 	for _, ep := range endpoints {
 		// fmt.Printf("DEBUG: hitting '%s'\n", ep)
 		var resp *http.Response
-		resp, err = http.Get(ep)		
+		resp, err = http.Get(ep)
 		if err != nil {
 			continue
 		}
